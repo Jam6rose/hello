@@ -8,10 +8,10 @@ button {
  cursor: url('171049.png'), pointer;
 }
 body {
-  background: #CECECD;
-background: -moz-linear-gradient(45deg, #CECECD 0%, #7090C3 29%, #C568B8 100%);
-background: -webkit-linear-gradient(45deg, #CECECD 0%, #7090C3 29%, #C568B8 100%);
-background: linear-gradient(45deg, #CECECD 0%, #7090C3 29%, #C568B8 100%);
+ background: #CECECD;
+background: -moz-linear-gradient(45deg, #CECECD 0%, #2829C3 57%, #1D38C5 100%);
+background: -webkit-linear-gradient(45deg, #CECECD 0%, #2829C3 57%, #1D38C5 100%);
+background: linear-gradient(45deg, #CECECD 0%, #2829C3 57%, #1D38C5 100%);
 }
 
 #header-container{
