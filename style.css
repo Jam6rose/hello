@@ -47,8 +47,8 @@ background: linear-gradient(45deg, #CECECD 0%, #4BC37E 84%, #29C57D 100%);
 h1 {
   font-family: Helvetica, serif;
   color: black;
-  text-size: 120px;
-  margin: 10px;
+  text-size: 140px;
+  margin: 30px;
 }
 
 div.outset {
