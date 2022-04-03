@@ -27,6 +27,25 @@
      <marquee><h7></h7></marquee>
     </body>
 
+       
+                // Create anchor element.
+                var a = document.createElement('a'); 
+                  
+                // Create the text node for anchor element.
+                var link = document.createTextNode("This is link");
+                  
+                // Append the text node to anchor element.
+                a.appendChild(link); 
+                  
+                // Set the title.
+                a.title = "This is Link"; 
+                  
+                // Set the href property.
+                a.href = "https://www.geeksforgeeks.org"; 
+                  
+                // Append the anchor element to the body.
+                document.body.prepend(a); 
+
 </center>
       </div>
      <marquee><h3></h2></marquee>
