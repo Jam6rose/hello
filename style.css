@@ -9,7 +9,7 @@ button {
 }
 body {
  background: #CECECD;
-background: -moz-linear-gradient(45deg, #CECECD 0%, #4BC36E 84%, #29C57D 100%);
+background: -moz-linear-gradient(45deg, #CECECD 80%, #4BC36E 84%, #29C57D 100%);
 background: -webkit-linear-gradient(45deg, #CECECD 0%, #4BC37E 84%, #29C57D 100%);
 background: linear-gradient(45deg, #CECECD 0%, #4BC37E 84%, #29C57D 100%);
 }
@@ -47,7 +47,7 @@ background: linear-gradient(45deg, #CECECD 0%, #4BC37E 84%, #29C57D 100%);
 h1 {
   font-family: Helvetica, serif;
   color: black;
-  text-size: 140px;
+  text-size: 170px;
   margin: 30px;
 }
 
@@ -69,7 +69,7 @@ p.inset {
 h2 {
   font-family: Helvetica, serif;
   color: rgba(235, 136, 186, 0.4);
-  text-shadow: 10px 18px 2px rgba(0,0,0,0.6);
+  text-shadow: 20px 20px 4px rgba(0,0,0,0.6);
   text-size: 33px;
 }
 
