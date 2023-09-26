@@ -9,7 +9,7 @@ button {
 }
 body {
  background: #CECECD;
-background: -moz-linear-gradient(45deg, #CECECD 0%, #4BC37E 84%, #29C57D 100%);
+background: -moz-linear-gradient(45deg, #CECECD 0%, #4BC36E 84%, #29C57D 100%);
 background: -webkit-linear-gradient(45deg, #CECECD 0%, #4BC37E 84%, #29C57D 100%);
 background: linear-gradient(45deg, #CECECD 0%, #4BC37E 84%, #29C57D 100%);
 }
